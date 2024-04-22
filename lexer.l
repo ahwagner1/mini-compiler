@@ -4,7 +4,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include "SymbolTable.h"
-#include "parser2.tab.h"
+#include "parser.tab.h"
 %}
 
 %%
